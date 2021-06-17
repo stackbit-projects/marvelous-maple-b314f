@@ -13,24 +13,33 @@ sections:
     background_image_opacity: 60
     background_image_position: center center
   - type: form_section
-    content: |
+    content: >
       ## Right Fit
+
 
       What we look for in the businesses we buy and run:
 
-      *   \[ ]
 
       *   \[ ]
 
-      *   \[ ]
 
       *   \[ ]
 
+
       *   \[ ]
+
+
+      *   \[ ]
+
+
+      *   \[ ]
+
 
       ## Privacy
 
-      We won't share anything you tell us, in any of our conversations.
+
+      Trust comes first for us. We won't share anything you tell us without your
+      say so in writing.
     content_align: left
     form_position: right
     form_width: fifty
