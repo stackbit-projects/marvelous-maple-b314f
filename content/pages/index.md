@@ -23,6 +23,9 @@ sections:
     background_image_opacity: 65
     background_image_position: right center
     background_image_size: auto
+    content: >
+      And if you want your business run with the same care that you've given it
+      over the years, we should talk.
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
