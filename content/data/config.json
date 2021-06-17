@@ -8,7 +8,7 @@
     "base_font": "serif",
     "header": {
         "title": "OGM",
-        "logo": "/images/about-5.jpg",
+        "logo": "/images/adorable-octopus.svg",
         "logo_alt": "OGM logo",
         "has_primary_nav": false,
         "primary_nav_links": [
