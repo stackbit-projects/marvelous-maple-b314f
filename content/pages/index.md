@@ -22,7 +22,7 @@ sections:
     background_image: /images/forest-explorer (Large).jpg
     background_image_opacity: 50
     background_image_position: left top
-    background_image_size: auto
+    background_image_size: contain
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
