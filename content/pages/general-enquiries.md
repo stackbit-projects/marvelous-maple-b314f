@@ -10,7 +10,7 @@ sections:
     image_alt: Three Foresters
     media_width: fifty
     background_image: /images/three foresters (Large).jpg
-    background_image_opacity: 90
+    background_image_opacity: 80
     background_image_position: center center
   - type: form_section
     content: >
