@@ -11,7 +11,7 @@ sections:
     media_width: fifty
     background_image: /images/three foresters (Large).jpg
     background_image_opacity: 60
-    background_image_position: left center
+    background_image_position: center top
   - type: form_section
     content: >-
       ## Billing
