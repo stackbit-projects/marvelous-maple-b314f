@@ -84,7 +84,7 @@ sections:
   - type: features_section
     features:
       - title: '"OGM knows how to make a fella feel special. Thanks, OGM!"'
-        subtitle: 'Brandon Gerhardt, Machine Tender at Company'
+        subtitle: 'Brandon Gerhardt, Machine Tender at Northern Star'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
