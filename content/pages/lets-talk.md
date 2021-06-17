@@ -97,7 +97,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: General Enquiries
+      value: Let's Talk
     - name: 'twitter:description'
       value: This is the contact page
 layout: advanced
