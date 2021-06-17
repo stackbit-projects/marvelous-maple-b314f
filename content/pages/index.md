@@ -39,7 +39,7 @@ sections:
           times, and the global pandemic. We know what it means to make the
           tough call, and we are serious about that responsibility.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
