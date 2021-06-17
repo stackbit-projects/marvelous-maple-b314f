@@ -86,6 +86,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+    section_id: why
   - type: features_section
     features:
       - title: '"OGM knows how to make a fella feel special. Thanks, OGM!"'
