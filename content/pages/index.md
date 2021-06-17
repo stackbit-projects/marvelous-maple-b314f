@@ -21,7 +21,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: /images/forest-explorer (Large).jpg
     background_image_opacity: 90
-    background_image_position: center center
+    background_image_position: left top
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
