@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: primary
       - label: Learn More
-        url: /features
+        url: '#Why'
         style: secondary
     image_alt: Hero section placeholder image
     media_position: left
