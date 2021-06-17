@@ -5,7 +5,7 @@ sections:
     title: We run great businesses with great teams.
     subtitle: Sometimes we buy businesses if we're a right fit.
     actions:
-      - label: Try Free
+      - label: Contact Us
         url: /pricing
         style: primary
       - label: Learn More
