@@ -84,16 +84,6 @@ sections:
     align: center
     background_color: secondary
     section_id: Why
-  - type: features_section
-    features:
-      - title: '"OGM knows how to make a fella feel special. Thanks, OGM!"'
-        subtitle: 'Brandon Gerhardt, Machine Tender at Northern Star'
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
