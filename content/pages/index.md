@@ -44,10 +44,17 @@ sections:
         media_position: right
         media_width: fifty
       - title: 2. No Spectators
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          You don't need spectators. Boards of directors, professional
+          investors, consultants, yes-men, naysayers, and all other onlookers
+          need not apply. Your business needs to be run by people in the
+          business.
+
+
+          We use our own money and don't take on outside investors. A faceless
+          hedge fund, equity group, or board won't call the shots for us.
+          Without the red tape and Monday-morning quarterbacking, we are free to
+          do what's right for the businesses we run.
         actions:
           - label: Learn More
             url: /style-guide
