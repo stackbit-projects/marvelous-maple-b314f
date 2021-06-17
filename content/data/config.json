@@ -63,7 +63,7 @@
         "secondary_nav_links": [
             {
                 "label": "Contact",
-                "url": "/pricing",
+                "url": "/contact",
                 "style": "primary"
             }
         ]
