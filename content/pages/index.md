@@ -38,7 +38,16 @@ sections:
           We've run businesses through good times, the financial crisis, better
           times, and the global pandemic. We know what it means to make the
           tough call, and we are serious about that responsibility.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         image: /images/helicopter-forest-fire (Medium).jpg
         image_alt: Feature 1 placeholder image
         media_position: right
