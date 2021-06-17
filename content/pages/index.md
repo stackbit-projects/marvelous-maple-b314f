@@ -24,8 +24,8 @@ sections:
     background_image_position: right center
     background_image_size: auto
     content: >
-      And if you want your business run with the same care that you've given it
-      over the years, we should talk.
+      And if your business needs experienced operators who can close fast, we
+      should talk.
   - type: features_section
     title: Features Section
     features:
