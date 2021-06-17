@@ -11,7 +11,7 @@ sections:
     image_alt: Three Foresters
     media_width: fifty
     background_image: /images/three foresters (Large).jpg
-    background_image_opacity: 25
+    background_image_opacity: 75
   - type: form_section
     content: >-
       ## Billing
