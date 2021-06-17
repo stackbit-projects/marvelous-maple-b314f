@@ -42,7 +42,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
         image: /images/helicopter-forest-fire (Medium).jpg
