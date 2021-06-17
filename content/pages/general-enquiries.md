@@ -64,7 +64,7 @@ sections:
         default_value: Please select
         options:
           - I'm looking for a buyer now
-          - Sponsorship
+          - 'I''d like to learn '
           - Other
       - input_type: textarea
         name: message
