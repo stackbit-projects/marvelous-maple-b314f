@@ -22,7 +22,6 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image_repeat: no-repeat
-    image: /images/image-from-rawpixel-id-3282993-original.jpg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
