@@ -6,7 +6,7 @@ sections:
     subtitle: Sometimes we buy businesses if we're a right fit.
     actions:
       - label: Let's Talk
-        url: /pricing
+        url: /contact
         style: primary
       - label: Learn More
         url: /features
