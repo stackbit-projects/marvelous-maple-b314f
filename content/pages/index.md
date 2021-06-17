@@ -30,6 +30,9 @@ sections:
     features:
       - title: 1. Battle-Tested
         content: >
+          You've just about seen it all.
+
+
           Sales slumps, tech troubles, cash crunches, and people problems aren't
           even half of it. When the chips are down, your team knows they can
           trust your judgment.
