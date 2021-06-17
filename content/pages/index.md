@@ -8,9 +8,6 @@ sections:
       - label: Let's Talk
         url: /contact
         style: primary
-      - label: Learn More
-        url: '#Why'
-        style: secondary
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
