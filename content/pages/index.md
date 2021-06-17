@@ -21,7 +21,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: /images/forest-explorer (Large).jpg
     content: |
-      ****
+      ***
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
