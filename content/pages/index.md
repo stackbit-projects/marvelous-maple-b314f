@@ -20,6 +20,7 @@ sections:
     background_color: primary
     background_image_repeat: no-repeat
     background_image: /images/forest-explorer (Large).jpg
+    background_image_opacity: 90
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
