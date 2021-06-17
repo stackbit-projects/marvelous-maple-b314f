@@ -64,7 +64,8 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "primary"
+                "style": "primary",
+                "has_icon": true
             }
         ]
     },
