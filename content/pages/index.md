@@ -23,9 +23,8 @@ sections:
     background_image_opacity: 65
     background_image_position: right center
     background_image_size: auto
-    content: >
-      And if your business needs experienced operators who can close fast, we
-      should talk.
+    content: |
+      And if you want experienced operators who can close fast, we should talk.
   - type: features_section
     title: Features Section
     features:
