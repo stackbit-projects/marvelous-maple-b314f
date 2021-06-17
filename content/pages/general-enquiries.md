@@ -13,18 +13,24 @@ sections:
     background_image_opacity: 60
     background_image_position: center center
   - type: form_section
-    content: >-
-      ## Billing
+    content: |
+      ## Right Fit
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      What we look for in the businesses we buy and run:
+
+      *   \[ ]
+
+      *   \[ ]
+
+      *   \[ ]
+
+      *   \[ ]
+
+      *   \[ ]
 
       ## Privacy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      We won't share anything you tell us, in any of our conversations.
     content_align: left
     form_position: right
     form_width: fifty
