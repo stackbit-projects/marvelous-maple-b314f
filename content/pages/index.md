@@ -26,7 +26,7 @@ sections:
     content: |
       And if you want experienced operators who can close fast, we should talk
   - type: features_section
-    title: Features Section
+    title: Why you're different (if you're like us)
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
