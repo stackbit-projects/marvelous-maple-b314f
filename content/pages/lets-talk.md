@@ -92,13 +92,13 @@ seo:
       value: Let's Talk
       keyName: property
     - name: 'og:description'
-      value: This is the general enquiries page
+      value: This is the contact page
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: General Enquiries
     - name: 'twitter:description'
-      value: This is the general enquiries page
+      value: This is the contact page
 layout: advanced
 ---
