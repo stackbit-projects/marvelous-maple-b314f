@@ -70,13 +70,7 @@ sections:
           We will follow through on the deal we offer you, no excuses. We've got
           great references, but we'll also guarantee a close or we'll pay you
           for time wasted.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/suspension-bridge (Medium).jpg
         image_alt: Feature 3 placeholder image
         media_position: right
