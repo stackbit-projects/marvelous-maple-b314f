@@ -62,7 +62,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
+                "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary",
                 "has_icon": true
