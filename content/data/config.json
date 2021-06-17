@@ -10,7 +10,7 @@
         "title": "OGM",
         "logo": "/images/logo-7.svg",
         "logo_alt": "OGM logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "Features",
