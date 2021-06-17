@@ -10,6 +10,7 @@ sections:
     background_color: none
     image_alt: Three Foresters
     media_width: fifty
+    background_image: /images/three foresters (Large).jpg
   - type: form_section
     content: >-
       ## Billing
