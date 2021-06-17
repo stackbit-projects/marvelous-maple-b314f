@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We run great businesses with great teams.
-    subtitle: Optional hero section subtitle
+    subtitle: Sometimes we buy businesses if we're a right fit.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
