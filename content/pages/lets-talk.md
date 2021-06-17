@@ -82,7 +82,7 @@ sections:
     padding_bottom: medium
     background_color: secondary
 seo:
-  title: General Enquiries
+  title: Let's Talk
   description: This is the general enquiries page
   extra:
     - name: 'og:type'
