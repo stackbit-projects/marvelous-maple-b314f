@@ -63,7 +63,7 @@
         "secondary_nav_links": [
             {
                 "label": "Contact Us",
-                "url": "/contact",
+                "url": "/let's-talk",
                 "style": "primary",
                 "has_icon": true
             }
