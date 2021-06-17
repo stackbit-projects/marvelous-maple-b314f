@@ -84,7 +84,7 @@ sections:
   - type: features_section
     features:
       - title: '"OGM knows how to make a fella feel special. Thanks, OGM!"'
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Brandon Gerhardt, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
