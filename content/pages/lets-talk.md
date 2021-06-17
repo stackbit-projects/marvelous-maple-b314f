@@ -89,7 +89,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: General Enquiries
+      value: Let's Talk
       keyName: property
     - name: 'og:description'
       value: This is the general enquiries page
