@@ -64,7 +64,7 @@ sections:
         default_value: Please select
         options:
           - I'm looking for a buyer now
-          - 'I''d like to learn '
+          - 'I''d like to learn more about '
           - Other
       - input_type: textarea
         name: message
