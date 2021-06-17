@@ -6,7 +6,7 @@ sections:
     subtitle: Sometimes we buy businesses if we're the right fit
     actions:
       - label: Let's Talk
-        url: /contact
+        url: /lets-talk
         style: primary
     image_alt: Hero section placeholder image
     media_position: left
