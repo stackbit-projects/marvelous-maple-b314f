@@ -20,6 +20,9 @@ sections:
     background_color: primary
     background_image_repeat: no-repeat
     background_image: /images/forest-explorer (Large).jpg
+    content: >
+      If you want your business run with the same care you've given it over the
+      years, we should talk.
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
