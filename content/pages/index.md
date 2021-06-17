@@ -63,10 +63,15 @@ sections:
         media_position: left
         media_width: fifty
       - title: 3. Integrity Guaranteed
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          You follow through on your word, no games. That's what has made the
+          difference. How you're still standing when others fell. Why that
+          customer stuck it out with you when times were tough.
+
+
+          We will follow through on the deal we offer you, no excuses. We've got
+          great references, but we'll also guarantee a close or we'll pay you
+          for time wasted.
         actions:
           - label: Learn More
             url: /style-guide
