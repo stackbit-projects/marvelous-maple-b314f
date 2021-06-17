@@ -3,10 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We run great businesses with great teams.
-    subtitle: >-
-      Sometimes we buy businesses if we're a right fit. If you want your
-      business run with the same care you've given it over the years, we should
-      talk.
+    subtitle: Sometimes we buy businesses if we're a right fit.
     actions:
       - label: Try Free
         url: /pricing
