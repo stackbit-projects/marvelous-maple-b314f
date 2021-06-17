@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We run great businesses with great teams
-    subtitle: Sometimes we buy businesses if we're a right fit
+    subtitle: Sometimes we buy businesses if we're the right fit
     actions:
       - label: Let's Talk
         url: /contact
