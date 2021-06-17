@@ -3,7 +3,6 @@ title: Let's Talk
 sections:
   - type: hero_section
     title: Let's Talk
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: medium
