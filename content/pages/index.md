@@ -55,13 +55,7 @@ sections:
           hedge fund, equity group, or board won't call the shots for us.
           Without the red tape and Monday-morning quarterbacking, we are free to
           do what's right for the businesses we run.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/pitch-forest (Medium).jpg
         image_alt: Feature 2 placeholder image
         media_position: left
