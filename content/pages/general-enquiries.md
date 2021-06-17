@@ -8,6 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+    image: /images/three foresters (Large).jpg
   - type: form_section
     content: >-
       ## Billing
