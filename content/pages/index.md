@@ -29,10 +29,15 @@ sections:
     title: Why you're different (if you're like us)
     features:
       - title: 1. Battle-Tested
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Sales slumps, tech troubles, cash crunches, and people problems aren't
+          even half of it. When the chips are down, your team knows they can
+          trust your judgment.
+
+
+          We've run businesses through good times, the financial crisis, better
+          times, and the global pandemic. We know what it means to make the
+          tough call, and we are serious about that responsibility.
         actions:
           - label: Learn More
             url: /style-guide
