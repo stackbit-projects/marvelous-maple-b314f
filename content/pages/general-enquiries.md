@@ -39,7 +39,7 @@ sections:
 
 
       Trust comes first for us. We won't share anything you tell us without your
-      say so in writing.
+      say so, in writing.
     content_align: left
     form_position: right
     form_width: fifty
