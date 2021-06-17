@@ -1,5 +1,5 @@
 ---
-title: let's talk
+title: Let's talk
 sections:
   - type: hero_section
     title: This is the Hero
