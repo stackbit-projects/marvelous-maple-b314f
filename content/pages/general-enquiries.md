@@ -8,7 +8,6 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    image: /images/three foresters (Large).jpg
     image_alt: Three Foresters
     media_width: fifty
   - type: form_section
