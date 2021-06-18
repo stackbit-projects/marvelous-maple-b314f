@@ -159,9 +159,7 @@ seo:
       value: Let's Talk
       keyName: property
     - name: 'og:description'
-      value: >-
-        OGM sometimes buys businesses when we're the right fit. We're ready to
-        talk. 
+      value: 'OGM buys businesses when we''re the right fit. We''re ready to talk. '
       keyName: property
     - name: 'twitter:card'
       value: summary
