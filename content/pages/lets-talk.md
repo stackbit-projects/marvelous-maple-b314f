@@ -171,5 +171,9 @@ seo:
       value: >-
         OGM sometimes buys businesses when we're the right fit. We're ready to
         talk. 
+    - name: 'og:image'
+      value: /_static/app-assets/images/lets-talk-2021-06-18.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
