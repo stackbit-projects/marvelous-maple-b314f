@@ -5,7 +5,7 @@ sections:
     title: Let's Talk
     align: center
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: large
     background_color: primary
     image_alt: Three Foresters
     media_width: fifty
