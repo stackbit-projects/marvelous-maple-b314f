@@ -85,13 +85,13 @@ sections:
       What we look for in the businesses we buy and run:
 
 
-      *   High-Integrity Management Team
-
-
-      *   Consistent Financial Performance
+      *   Team Integrity
 
 
       *   Over 10 years of Operations
+
+
+      *   Steady Financial Results
 
 
       *   Under 20% Max Customer Concentration
