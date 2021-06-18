@@ -154,7 +154,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Let's Talk
+      value: OGM – Let's Talk
       keyName: property
     - name: 'og:description'
       value: 'OGM buys businesses when we''re the right fit. We''re ready to talk. '
