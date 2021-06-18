@@ -62,7 +62,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: 3. Integrity Guaranteed
+      - title: 3 – Integrity Guaranteed.
         content: >
           You follow through on your word, no games. That's what has made the
           difference. How you're still standing when others fell. Why that
