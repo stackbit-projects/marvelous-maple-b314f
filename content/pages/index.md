@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Why you're different (if you're like us).
     features:
-      - title: 1 – Battle-Tested.
+      - title: ( 1 ) Battle-Tested.
         content: >
           You've just about seen it all.
 
