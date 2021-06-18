@@ -159,7 +159,9 @@ seo:
       value: Let's Talk
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        OGM sometimes buys businesses when we're the right fit. We're ready to
+        talk. 
       keyName: property
     - name: 'twitter:card'
       value: summary
