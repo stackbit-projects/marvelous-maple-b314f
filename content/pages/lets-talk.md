@@ -168,6 +168,8 @@ seo:
     - name: 'twitter:title'
       value: Let's Talk
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        OGM sometimes buys businesses when we're the right fit. We're ready to
+        talk. 
 layout: advanced
 ---
