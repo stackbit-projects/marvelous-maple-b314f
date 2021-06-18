@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Let's Talk
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: large
     background_color: primary
     image_alt: Three Foresters
