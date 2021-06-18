@@ -45,7 +45,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: 2 – No Spectators.
+      - title: ( 2 ) No Spectators.
         content: >
           You don't need spectators. Boards of directors, professional
           investors, consultants, yes-men, naysayers, and all other onlookers
