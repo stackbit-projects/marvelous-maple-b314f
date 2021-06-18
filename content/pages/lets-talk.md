@@ -147,7 +147,7 @@ sections:
     padding_bottom: medium
     background_color: secondary
 seo:
-  title: Let's Talk
+  title: OGM – Let's Talk
   description: 'OGM buys businesses when we''re the right fit. We''re ready to talk. '
   extra:
     - name: 'og:type'
