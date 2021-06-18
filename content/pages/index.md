@@ -107,7 +107,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: OGM
+      value: OGM – Owner Operators Only
     - name: 'twitter:description'
       value: >-
         OGM runs great business with great teams. Sometimes we buy businesses if
