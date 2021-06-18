@@ -69,7 +69,7 @@ sections:
           customer stuck it out with you when times were tough.
 
 
-          We will follow through on the deal we offer you, no excuses. We've got
+          We'll follow through on the deal we offer you, no excuses. We've got
           great references, but we'll also guarantee a close or we'll pay you
           for time wasted.
         actions: []
