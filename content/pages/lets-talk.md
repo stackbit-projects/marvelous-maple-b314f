@@ -148,9 +148,7 @@ sections:
     background_color: secondary
 seo:
   title: Let's Talk
-  description: >-
-    OGM sometimes buys businesses when we're the right fit. We're ready to
-    talk. 
+  description: 'OGM buys businesses when we''re the right fit. We''re ready to talk. '
   extra:
     - name: 'og:type'
       value: website
