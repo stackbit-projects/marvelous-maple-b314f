@@ -81,6 +81,7 @@ sections:
     align: center
     background_color: secondary
     section_id: Different
+    subtitle: Learn More
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
