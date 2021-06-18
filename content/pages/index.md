@@ -98,7 +98,7 @@ seo:
       value: The preview of the DIY theme
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/ogm-web-preview.png
+      value: /_static/app-assets/images/pitch-forest%20(Medium).jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
