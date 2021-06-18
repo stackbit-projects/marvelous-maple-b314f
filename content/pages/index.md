@@ -25,7 +25,7 @@ sections:
       **And if you like experienced operators who close fast, we should talk.**
 
   - type: features_section
-    title: Why you're different (if you're like us)
+    title: Why you're different (if you're like us).
     features:
       - title: 1. Battle-Tested
         content: >
