@@ -82,7 +82,7 @@ sections:
     background_color: secondary
     section_id: Different
 seo:
-  title: OGM – Owner Operators Only
+  title: OGM – Owner Operators
   description: >-
     OGM runs great business with great teams. Sometimes we buy businesses if
     we're the right fit. If you like experienced operators who close fast, we
