@@ -92,7 +92,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: OGM – Owner Operators Only
+      value: OGM – Owner Operators
       keyName: property
     - name: 'og:description'
       value: >-
