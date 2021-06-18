@@ -83,7 +83,7 @@ sections:
     section_id: Different
 seo:
   title: OGM LLC
-  description: The preview of the DIY theme
+  description: 'OGM runs great business with great teams. Sometimes we '
   extra:
     - name: 'og:type'
       value: website
