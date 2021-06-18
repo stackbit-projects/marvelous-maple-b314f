@@ -83,7 +83,10 @@ sections:
     section_id: Different
 seo:
   title: OGM
-  description: 'OGM runs great business with great teams. Sometimes we '
+  description: >-
+    OGM runs great business with great teams. Sometimes we buy businesses if
+    we're the right fit. If you like experienced operators who close fast, we
+    should talk.
   extra:
     - name: 'og:type'
       value: website
