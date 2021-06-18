@@ -97,7 +97,7 @@ sections:
       *   Under 20% Max Customer Concentration
 
 
-      *   Between $500K to $1.5M in Operating Profit / Cash Flow
+      *   From $500K to $1.5M in Operating Profit / Cash Flow
 
 
       ## Privacy
