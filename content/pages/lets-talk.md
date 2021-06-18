@@ -162,7 +162,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Let's Talk
+      value: OGM – Let's Talk
     - name: 'twitter:description'
       value: 'OGM buys businesses when we''re the right fit. We''re ready to talk. '
     - name: 'og:image'
