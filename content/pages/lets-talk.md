@@ -12,7 +12,7 @@ sections:
     background_image: /images/three foresters (Large).jpg
     background_image_opacity: 80
     background_image_position: center center
-    background_image_size: cover
+    background_image_size: auto
   - type: form_section
     content: >
       ## Right Fit
