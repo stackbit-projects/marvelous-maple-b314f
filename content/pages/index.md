@@ -80,7 +80,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    section_id: Why
+    section_id: Different
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
