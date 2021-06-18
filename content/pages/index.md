@@ -82,7 +82,7 @@ sections:
     background_color: secondary
     section_id: Different
 seo:
-  title: Stackbit DIY Theme
+  title: OGM LLC
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
