@@ -54,9 +54,9 @@ sections:
 
 
           We use our own money and don't take on outside investors. A faceless
-          hedge fund, equity group, or board won't call the shots for us.
-          Without the red tape and Monday-morning quarterbacking, we are free to
-          do what's right for the businesses we run.
+          hedge fund, equity group, or board won't call the shots. Without red
+          tape and Monday-morning quarterbacking, we are free to do what's right
+          for our teams.
         actions: []
         image: /images/pitch-forest (Medium).jpg
         image_alt: Feature 2 placeholder image
