@@ -85,19 +85,19 @@ sections:
       What we look for in the businesses we buy and run:
 
 
-      *   Team Integrity
+      *   Team integrity
 
 
-      *   Over 10 years of Operations
+      *   Over 10 years of operations
 
 
-      *   Steady Financial Results
+      *   Steady financial results
 
 
-      *   Under 20% Max Customer Concentration
+      *   Under 20% max customer concentration
 
 
-      *   From $500K to $1.5M in Operating Profit / Cash Flow
+      *   From $500K to $1.5M in operating profit / cash flow
 
 
       ## Privacy
