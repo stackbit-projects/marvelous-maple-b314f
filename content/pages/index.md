@@ -20,6 +20,8 @@ sections:
     background_image_position: right center
     background_image_size: auto
     content: |
+      Sometimes we buy businesses if we're the right fit.
+
       And if you like experienced operators who close fast, we should talk.
   - type: features_section
     title: Why you're different (if you're like us)
