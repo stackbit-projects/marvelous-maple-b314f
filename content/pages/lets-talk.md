@@ -13,7 +13,6 @@ sections:
     background_image_opacity: 80
     background_image_position: center center
     background_image_size: auto
-    subtitle: If you'd like to get to know us and what makes OGM different
   - type: form_section
     content: >
       ## Right Fit
