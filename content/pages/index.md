@@ -111,7 +111,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the DIY theme
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /_static/app-assets/images/ogm-web-preview-2021-06-18.png
       relativeUrl: true
 layout: advanced
 ---
