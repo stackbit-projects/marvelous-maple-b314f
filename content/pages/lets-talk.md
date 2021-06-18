@@ -8,7 +8,7 @@ sections:
     padding_bottom: medium
     background_color: primary
     image_alt: Three Foresters
-    media_width: fourty
+    media_width: fifty
     background_image: /images/three foresters (Large).jpg
     background_image_opacity: 80
     background_image_position: center center
