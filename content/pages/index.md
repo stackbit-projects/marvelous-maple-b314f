@@ -95,7 +95,10 @@ seo:
       value: OGM
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: >-
+        OGM runs great business with great teams. Sometimes we buy businesses if
+        we're the right fit. If you like experienced operators who close fast,
+        we should talk.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/ogm-web-preview-2021-06-18.png
