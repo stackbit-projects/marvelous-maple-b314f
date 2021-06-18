@@ -85,19 +85,19 @@ sections:
       What we look for in the businesses we buy and run:
 
 
-      > High-Integrity Management Team
+      *   High-Integrity Management Team
 
 
-      > Consistent Financial Performance
+      *   Consistent Financial Performance
 
 
-      > \> 10 years of Operations
+      *   \> 10 years of Operations
 
 
-      > < 20% Max Customer Concentration
+      *   < 20% Max Customer Concentration
 
 
-      > $500,000 to $1,500,000 in Operating Profit / Cash Flow
+      *   $500,000 to $1,500,000 in Operating Profit / Cash Flow
 
 
       ## Privacy
