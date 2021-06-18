@@ -91,13 +91,13 @@ sections:
       *   Consistent Financial Performance
 
 
-      *   \> 10 years of Operations
+      *   Over 10 years of Operations
 
 
-      *   < 20% Max Customer Concentration
+      *   Under 20% Max Customer Concentration
 
 
-      *   $500,000 to $1,500,000 in Operating Profit / Cash Flow
+      *   Between $500K to $1.5M in Operating Profit / Cash Flow
 
 
       ## Privacy
