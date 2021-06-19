@@ -19,11 +19,10 @@ sections:
     background_image_opacity: 65
     background_image_position: right center
     background_image_size: auto
-    content: |+
+    content: |
       **Sometimes we buy businesses if we're the right fit.**
 
-      **And if you like experienced operators who close fast, we should talk.**
-
+      **And if you like proven operators who close fast, we should talk.**
   - type: features_section
     title: Why you're different (if you're like us).
     features:
