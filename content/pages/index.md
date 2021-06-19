@@ -47,10 +47,12 @@ sections:
         media_width: fifty
       - title: ( 2 ) No Spectators.
         content: >
-          You don't need spectators. Boards of directors, professional
-          investors, consultants, yes-men, naysayers, and all other onlookers
-          need not apply. Your business needs to be run by people in the
-          business.
+          You don't need spectators.
+
+
+          Boards of directors, professional investors, consultants, yes-men,
+          naysayers, and all other onlookers need not apply. Your business needs
+          to be run by people in the business.
 
 
           We use our own money and don't take on outside investors. A faceless
