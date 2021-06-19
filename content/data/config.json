@@ -176,5 +176,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://www.og.management/"
+    "domain": "https://www.og.management/",
+    "favicon": "/images/merit-badge-Forestry.ico"
 }
