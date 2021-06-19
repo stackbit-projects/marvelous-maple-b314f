@@ -67,7 +67,8 @@
                 "style": "primary",
                 "has_icon": true
             }
-        ]
+        ],
+        "logo": "/images/OGM Temp Logo.svg"
     },
     "footer": {
         "logo_alt": "DIY logo",
