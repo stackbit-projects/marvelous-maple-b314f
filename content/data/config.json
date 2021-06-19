@@ -67,8 +67,7 @@
                 "style": "primary",
                 "has_icon": true
             }
-        ],
-        "logo": "/images/fierce-pluto.png"
+        ]
     },
     "footer": {
         "logo_alt": "DIY logo",
