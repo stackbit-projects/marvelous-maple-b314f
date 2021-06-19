@@ -2,7 +2,7 @@
     "title": "OGM – Owner Operators",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "bold",
+    "style": "minimal",
     "palette": "green",
     "mode": "light",
     "base_font": "serif",
