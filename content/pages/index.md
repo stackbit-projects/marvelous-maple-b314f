@@ -66,9 +66,12 @@ sections:
         media_width: fifty
       - title: ( 3 ) Integrity Guaranteed.
         content: >
-          You follow through on your word, no games. That's what has made the
-          difference. How you're still standing when others fell. Why that
-          customer stuck it out with you when times were tough.
+          You follow through on your word, no games.
+
+
+          That's what has made the difference. How you're still standing when
+          others fell. Why that customer stuck it out with you when times were
+          tough.
 
 
           We'll follow through on the deal we offer you, no excuses. We've got
