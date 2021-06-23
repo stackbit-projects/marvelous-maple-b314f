@@ -1,2 +1,2 @@
-http://og.ms/* https://www.og.management/blog/:splat 301!
+http://og.ms/* https://www.og.management/:splat 301!
 https://blog.yoursite.com/* https://www.yoursite.com/blog/:splat 301!
