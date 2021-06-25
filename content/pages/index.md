@@ -37,8 +37,8 @@ sections:
 
 
           We've run businesses through good times, the financial crisis, better
-          times, and the global pandemic. We know what it means to make the
-          tough call, and we are serious about that responsibility.
+          times, and the global pandemic. We know what it's like to make the
+          tough call, and we own that responsibility.
         actions: []
         image: /images/helicopter-forest-fire (Medium).jpg
         image_alt: Feature 1 placeholder image
