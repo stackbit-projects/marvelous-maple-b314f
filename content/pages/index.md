@@ -23,6 +23,7 @@ sections:
       **Sometimes we buy businesses if we're the right fit.**
 
       **And if you like proven operators who close fast, we should talk.**
+    image: /images/Copy of Logo_Full Color On Dark.png
   - type: features_section
     title: Why you're different (if you're like us).
     features:
