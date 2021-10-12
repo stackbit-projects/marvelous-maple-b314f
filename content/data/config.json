@@ -67,7 +67,8 @@
                 "style": "primary",
                 "has_icon": true
             }
-        ]
+        ],
+        "logo": "/images/Copy of Logo_Full Color On White.png"
     },
     "footer": {
         "logo_alt": "DIY logo",
